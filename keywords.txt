@@ -1,0 +1,3 @@
+OnePinCapSense  KEYWORD1
+readCapacitivePin   KEYWORD2
+

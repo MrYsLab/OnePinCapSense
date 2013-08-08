@@ -3,6 +3,12 @@ OnePinCapSense
 
 A one pin capacitive sensor library for Ardino that support multi-touch
 
+Rationale for this library:
+
+I wanted to have an inexpensive and simple way to detect user touch of an object,
+with the requirements of utilizing one pin per sensor, no use grounding, and allowing for 
+multi-touch capabilities.  
+
 Written by Alan Yorinks
   Copyright (c) 2013 Alan Yorinks All right reserved.
 
@@ -20,7 +26,7 @@ Manifest:
         single sensor and LED. Duplicate this for as many sensors
         as you require.
      4. A sample Scratch 2.0 test program called testCapSense.sb2
-     5. This README.txt file
+     5. This README file
      
 To install, follow the library installation instructions on:
      http://arduino.cc/en/Guide/Libraries
@@ -30,14 +36,12 @@ This library was based upon the following references and previous projects:
 
 References: 
 http://urbanhonking.com/ideasfordozens/2009/05/18/an_tour_of_the_arduino_interna/
+
 http://www.instructables.com/id/Turn-a-pencil-drawing-into-a-capacitive-sensor-for/
+
 http://www.youtube.com/watch?v=LnpQgfTomNs
 
-Rationale for this library:
 
-I wanted to have an inexpensive and simple way to detect user touch of an object,
-with the requirements of utilizing one pin per sensor, no use grounding, and allowing for 
-multi-touch capabilities.  
 
 The instructables project listed above did just that, 
 but was written specifically for the Arduino UNO pinmap.

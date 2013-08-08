@@ -6,7 +6,7 @@ A one pin capacitive sensor library for Ardino that support multi-touch
 Rationale for this library:
 
 I wanted to have an inexpensive and simple way to detect user touch of an object,
-with the requirements of utilizing one pin per sensor, no use grounding, and allowing for 
+with the requirements of utilizing one pin per sensor, no user grounding, and allowing for 
 multi-touch capabilities.  
 
 Written by Alan Yorinks

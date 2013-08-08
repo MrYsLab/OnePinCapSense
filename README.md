@@ -49,9 +49,8 @@ http://www.youtube.com/watch?v=LnpQgfTomNs
 
 
 
-The instructables project listed above did just that, 
-but was written specifically for the Arduino UNO pinmap.
-I have modified that work to allow for use with the Leonardo as well, by using 
+The instructables project listed above did everything I wanted for the UNO but not for the Leonardo.
+I have modified that work to allow for use with the Leonardo as well as the UNO, by using 
 standard Macros provided as part of the Arduino software IDE. Although only tested
 with the UNO and Leonardo, it should work with all other Arduino boards.
 

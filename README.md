@@ -18,15 +18,21 @@ Written by Alan Yorinks
 
 Manifest:
    This package contains:
+   
      1. The library files OnePinCapSense.h and OnePinCapSense.cpp
+     
      2. An example program, called OnePinCapSenseExample.ino , 
         demonstrating 5 capacitive sensors and 5 associated LED
         indicators.
+        
      3. A diagram showing a typical hardware implementation for a 
         single sensor and LED. Duplicate this for as many sensors
         as you require.
+        
      4. A sample Scratch 2.0 test program called testCapSense.sb2
+     
      5. This README file
+     
      
 To install, follow the library installation instructions on:
      http://arduino.cc/en/Guide/Libraries
